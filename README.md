@@ -6,9 +6,19 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 In this homework we created a Web Visualization Dashboard using images from a past homework assignment, weather visualizations. 
 
+HTML, CSS, and Bootstrap were used. 
+
 Individual HTML pages built were the index, comparisons, data, and 4 visualizations pages. 
 
-HTML, CSS, and Bootstrap were used. 
+###  Background
+https://github.com/KGore12/Web-Design-Challenge/blob/main/index.html
+https://github.com/KGore12/Web-Design-Challenge/blob/main/Comparisons.html
+https://github.com/KGore12/Web-Design-Challenge/blob/main/Data.html
+https://github.com/KGore12/Web-Design-Challenge/blob/main/Cloudiness.html
+https://github.com/KGore12/Web-Design-Challenge/blob/main/MaxTemp.html
+https://github.com/KGore12/Web-Design-Challenge/blob/main/Humidity.html
+https://github.com/KGore12/Web-Design-Challenge/blob/main/WindSpeed.html
+
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
