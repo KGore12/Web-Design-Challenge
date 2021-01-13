@@ -10,6 +10,11 @@ HTML, CSS, and Bootstrap were used.
 
 Individual HTML pages built were the index, comparisons, data, and 4 visualizations pages. 
 
+The results can be seen by clicking on this link:
+https://kgore12.github.io/Web-Design-Challenge/
+
+
+
 ###  Landing Page
 https://github.com/KGore12/Web-Design-Challenge/blob/main/index.html
 
