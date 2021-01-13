@@ -16,9 +16,13 @@ https://github.com/KGore12/Web-Design-Challenge/blob/main/index.html
 ###  Visualizations Pages
 
 https://github.com/KGore12/Web-Design-Challenge/blob/main/Cloudiness.html
+
 https://github.com/KGore12/Web-Design-Challenge/blob/main/MaxTemp.html
+
 https://github.com/KGore12/Web-Design-Challenge/blob/main/Humidity.html
+
 https://github.com/KGore12/Web-Design-Challenge/blob/main/WindSpeed.html
+
 
 ###  Comparisons Page
 https://github.com/KGore12/Web-Design-Challenge/blob/main/Comparisons.html
